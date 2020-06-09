@@ -32,13 +32,15 @@ Necesitarás instalar tanto R como RStudio. Para ello, sigue los siguientes paso
 
 - Puedes descargar R desde https://cran.r-project.org/. Debes elegir la opción que corresponda, según tu sistema operativo.
 
-![](/imagenes/cran.png)
-
+<p align="center">
+<img src="imagenes/cran.png" width="600"/>
+</p>
 
 Si utilizas Windows, te preguntará qué es lo que quieres instalar. Selecciona "base".
 
-![](/imagenes/windows.png)
-
+<p align="center">
+<img src="imagenes/windows.png" width="600"/>
+</p>
 
 - Luego, sigue los pasos de instalación, tal como lo haces con cualquier programa. 
 
@@ -49,7 +51,9 @@ Si utilizas Windows, te preguntará qué es lo que quieres instalar. Selecciona 
 
 Si quedó todo bien instalado, cuando abras RStudio deberías ver algo parecido a esto (algunas cosas pueden variar según tu sistema operativo):
 
-![](/imageness/rstudio.png)
+<p align="center">
+<img src="imagenes/rstudio.png" width="600"/>
+</p>
 
 A lo largo del curso usaremos una versión reciente de R y RStudio, así que si tienes instalada una versión previa, puede que algunas cosas se vean un poco distintas. Versiones de R anteriores a la 3.5 harán que algunas cosas no funcionen, por lo que te sugerimos actualizar. La última versión de R es la 4.0.0 y la última de RStudio la 1.3.
 
@@ -59,23 +63,34 @@ A lo largo del curso usaremos una versión reciente de R y RStudio, así que si 
 
 #### 1. Accede a [rstudio.cloud](https://rstudio.cloud/)
 
-![](/imagenes/rstudio-cloud.png)
+<p align="center">
+<img src="imagenes/rstudio-cloud.png" width="600"/>
+</p>
 
 #### 2. Crea una cuenta
 Haz clic en "Sign up" e ingresa tus datos. 
 
-![](/imagenes/sign-up.png)
+<p align="center">
+<img src="imagenes/sign-up.png" width="400"/>
+</p>
 Una vez que hayas creado una cuenta, verás algo así. Este es tu espacio de trabajo. 
 
-![](/imagenes/espacio-de-trabajo.png)
+
+<p align="center">
+<img src="imagenes/espacio-de-trabajo.png" width="600"/>
+</p>
 
 Para poder empezar a trabajar en RStudio Cloud necesitas crear un proyecto. Para ello, haz clic en "New Project". Puede tomas alrededor de un minuto en crear:
 
-![](/imagenes/deploying-project.png){width=50%}
+<p align="center">
+<img src="imagenes/deploying-project.png" width="300"/>
+</p>
 
 Cuando esté listo, verás algo así:
 
-![](/imagenes/projecto-creado.png)
+<p align="center">
+<img src="imagenes/projecto-creado.png" width="600"/>
+</p>
 
 ¡Listo! Ya tienes todo lo necesario para la clase.
 
@@ -90,7 +105,9 @@ A continucación hay algunas opciones:
 
 Es la opción más simple y no requieres nada más que tu computador. 
 
-![](/imagenes/pantalla-dividida.JPG)
+<p align="center">
+<img src="imagenes/pantalla-dividida.JPG" width="500"/>
+</p>
 
 ### Una segunda pantalla
 
@@ -101,7 +118,9 @@ Esta es la opción más cómoda, pero no siempre es posible porque requieres má
 
 Luego de conectarlo, configura tu computador para que las pantallas no se dupliquen, sino que veas dos cosas distintas en cada una. Así podrás trabajar en tu computador e ir mirando el taller en el televisor:
 
-![](/imagenes/compu-tele.JPG)
+<p align="center">
+<img src="imagenes/compu-tele.JPG" width="400"/>
+</p>
 
 #### Usar otro dispositivo
 
