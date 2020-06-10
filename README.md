@@ -1,4 +1,4 @@
-# Módulo Herramientas computacionales - sesiones 1 y 2
+# Módulo Herramientas Computacionales - sesiones 1 y 2
 
 > Docentes: [Gabriela Sandoval](https://twitter.com/gabysandovalm) y [Riva Quiroga](https://twitter.com/rivaquiroga)
 
@@ -95,11 +95,11 @@ Cuando esté listo, verás algo así:
 ¡Listo! Ya tienes todo lo necesario para la clase.
 
 
-## Organización para la clase 
+## Preparación de tu espacio de trabajo para la clase 
 
-Durante la sesión iremos escribiendo código en vivo. Lo ideal es que vayas replicando en tu computador lo que hagamos. Para ello, es necesaroi que pienses en alguna configuración de pantalla que te permita ir mirando lo que hacemos en Zoom y replicándolo en la ventana de RStudio.  
+Durante la sesión iremos escribiendo código en vivo. Lo ideal es que vayas replicando en tu computador lo que hagamos. Para ello, es necesario que pienses en alguna configuración de pantalla que te permita ir mirando lo que hacemos en Zoom y replicándolo en la ventana de RStudio.  
 
-A continucación hay algunas opciones:
+A continuación hay algunas opciones:
 
 ### Una mitad de la pantalla para cada cosa
 
