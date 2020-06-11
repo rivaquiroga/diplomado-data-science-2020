@@ -58,7 +58,7 @@ Si quedó todo bien instalado, cuando abras RStudio deberías ver algo parecido 
 A lo largo del curso usaremos una versión reciente de R y RStudio, así que si tienes instalada una versión previa, puede que algunas cosas se vean un poco distintas. Versiones de R anteriores a la 3.5 harán que algunas cosas no funcionen, por lo que te sugerimos actualizar. La última versión de R es la 4.0.0 y la última de RStudio la 1.3.
 
 **IMPORTANTE:** Si te encuentras con algún error durante este proceso, lo más probabable es que sea por alguna configuración de tu sistema operativo. En ese caso, la mejor manera de buscar una solución es copiar el error que arroja R, pegarlo en tu motor de búsqueda favorito y ver cómo alguien que se enfrentó a eso antes lo resolvió. 
-Si por alguna razón no logras resolver el problema antes de la primera clase, no te preocupes. Durante esa sesión puedes utilizar la versión en la nube de RStudio. A continuación explicaremos cómo registrarse. 
+Si por alguna razón no logras resolver los problemas de instalación antes de la primera clase, no te preocupes. Durante esa sesión puedes utilizar la versión en la nube de RStudio. A continuación explicaremos cómo registrarse. 
 
 ### RStudio Cloud
 
